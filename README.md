@@ -61,7 +61,7 @@ My project for a friend's diploma:
 
 Solving katas in **C#**, **C**, and **JS**  
 🥋 Rank: **4kyu**  
-🔗 [My Codewars Profile](https://www.codewars.com/users/krasistos)
+🔗 [My Codewars Profile](https://www.codewars.com/users/Kras4o)
 
 ---
 
