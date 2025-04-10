@@ -1,4 +1,4 @@
-# Hello, I'm [Krasistos](https://github.com/krasistos) 👋
+# Hello, I'm Kraimir Petrov Kolev 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on **web development**, eager to create real-world applications, but also deeply interested in **low-level programming**. I'm always learning new technologies and expanding my horizons.
 
@@ -65,7 +65,7 @@ This is a **diploma project** for a **minimarket system**. I’m implementing **
 I’m also passionate about solving coding challenges.  
 Currently, I’m solving challenges on **Codewars** and have achieved **4 kyu** in **C#**, **JavaScript**, and some **C** challenges. I’m always excited to improve my problem-solving skills and learn new algorithms!
 
-You can check out my **[Codewars Profile](https://www.codewars.com/users/krasistos)**.
+You can check out my **[Codewars Profile](https://www.codewars.com/users/Kras4o)**.
 
 ---
 
@@ -82,7 +82,7 @@ You can check out my **[Codewars Profile](https://www.codewars.com/users/krasist
 ## 📫 Let’s Connect
 
 Feel free to reach out to me if you’re working on an interesting project or if you need any help with programming!  
-You can contact me on [LinkedIn](https://www.linkedin.com/in/krasistos) or send me a message via GitHub.
+You can contact me on [LinkedIn](https://www.linkedin.com/in/krasimir-kolev-55a65a27b/) or send me a message via GitHub.
 
 ---
 
